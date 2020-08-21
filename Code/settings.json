@@ -1,4 +1,5 @@
 "workbench.colorCustomizations": {
+
     "[Visual Studio Dark]": {
         "statusBar.background": "#AB0D1A",
         "activityBarBadge.background": "#AB0D1A",    
@@ -8,10 +9,10 @@
         "selection.background": "#840B14",
         "focusBorder": "#840B14",
         "settings.modifiedItemIndicator": "#840B14",
-        "list.activeSelectionBackground": "#840B14",
 
-        "editor.selectionBackground": "#5C070E",
-        "list.focusBackground": "#5C070E",
+        "list.activeSelectionBackground": "#ab0d1a67",
+        "editor.selectionBackground": "#ab0d1a67",
+        "list.focusBackground": "#ab0d1a67",
 
         "textLink.foreground": "#D21120",
         "list.errorForeground": "#D21120",
@@ -20,5 +21,32 @@
         "textLink.activeForeground": "#F14754",
         "list.highlightForeground": "#F14754",
         "pickerGroup.foreground": "#F14754"
+    },
+
+    "[Visual Studio Light]": {
+        "statusBar.background": "#AB0D1A",
+        "activityBarBadge.background": "#AB0D1A",    
+
+        "button.background": "#840B14",
+        "menu.selectionBackground": "#840B14",
+        "selection.background": "#840B14",
+        "focusBorder": "#840B14",
+        "settings.modifiedItemIndicator": "#840B14",
+
+        "list.activeSelectionBackground": "#ab0d1a36",
+        "editor.selectionBackground": "#ab0d1a36",
+        "list.focusBackground": "#ab0d1a36",
+
+        "textLink.foreground": "#D21120",
+        "list.errorForeground": "#D21120",
+
+        "editorSuggestWidget.highlightForeground": "#F14754",
+        "textLink.activeForeground": "#F14754",
+        "list.highlightForeground": "#F14754",
+        "pickerGroup.foreground": "#F14754",
+
+        "activityBar.background": "#ECECEC",
+        "activityBar.foreground": "#000",
+        "titleBar.activeForeground": "#000"
     }
 },
