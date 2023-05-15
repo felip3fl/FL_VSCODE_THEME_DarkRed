@@ -1,4 +1,5 @@
-<h3 align="center"> <img src="https://raw.githubusercontent.com/felip3fl/felip3fl/1a6a66b6a143aab342cf2df18f56d8c1c7e6c8fb/Material/Icon/vscode.svg" width="180px" align="center" ><BR><BR>FL FL Visual Studio Code Theme DarkRed
+<h3 align="center"> <img src="https://raw.githubusercontent.com/felip3fl/felip3fl/1a6a66b6a143aab342cf2df18f56d8c1c7e6c8fb/Material/Icon/vscode.svg" width="180px" align="center" ><BR><BR>
+FL VS Code Theme
 <BR><BR>
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-blue">
 <img src="https://img.shields.io/badge/PROJECT%20VERSION-1.23.2.11-blue">
