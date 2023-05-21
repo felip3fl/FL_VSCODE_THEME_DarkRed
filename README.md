@@ -5,6 +5,7 @@ FL VS Code Theme
 <img src="https://img.shields.io/badge/PROJECT%20VERSION-1.23.2.11-blue">
 </h3>
 
+<BR>
 
 ## 📃 Descrição do projeto
 
