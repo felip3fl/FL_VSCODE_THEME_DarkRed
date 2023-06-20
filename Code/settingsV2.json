@@ -43,6 +43,8 @@
         },
         "[*Dracula*]": {
             "panel.border": "#21222c",
+    	"editorGroupHeader.tabsBackground": "#21222c",	
+		  "editorGroup.border": "#21222c",
         },
         "[Visual Studio Dark]": {
             "statusBar.background": "#AB0D1A",
