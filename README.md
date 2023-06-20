@@ -23,6 +23,8 @@ FL VS Code Theme
 
 - `Funcionalidade 1`: Tema escuro com traços em vermelho, para o Visual Studio Code
 - `Funcionalidade 2`: Tema claro com traços em vermelho, para o Visual Studio Code
+- `Funcionalidade 3`: Configurações do Editor
+- `Funcionalidade 4`: Melhoria no Dracula Theme
 
 <BR>
   
