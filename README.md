@@ -16,6 +16,7 @@ FL VS Code Theme
 <BR>
 
 <img src="https://github.com/ssj4dofuturo/FL_VSCODE_THEME_DarkRed/blob/master/Material/print%202020-07-10%20161934.png" alt="VS Code Theme Dark Red">
+<img src="https://github.com/felip3fl/FL_VSCODE_THEME_DarkRed/blob/master/Material/2023-08-02%20(1).png?raw=true" alt="VS Code Theme Dark Red">
 
 <BR>
 
