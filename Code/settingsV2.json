@@ -45,6 +45,8 @@
       "panel.border": "#21222c",
     	"editorGroupHeader.tabsBackground": "#21222c",	
 		  "editorGroup.border": "#21222c",
+      "titleBar.activeBackground": "#14141a",
+      "activityBar.background": "#191a21"
     },
     "[Visual Studio Dark]": {
       "statusBar.background": "#AB0D1A",
