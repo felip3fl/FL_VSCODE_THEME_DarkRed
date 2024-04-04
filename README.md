@@ -1,11 +1,10 @@
 <h3 align="center"> <img src="https://raw.githubusercontent.com/felip3fl/felip3fl/1a6a66b6a143aab342cf2df18f56d8c1c7e6c8fb/Material/Icon/vscode.svg" width="180px" align="center" ><BR><BR>
-FL VS Code Theme
+FL VS CODE THEME
 <BR><BR>
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-blue">
-<img src="https://img.shields.io/badge/PROJECT%20VERSION-1.23.2.11-blue">
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-008ed4">
+<img src="https://img.shields.io/badge/PROJECT%20VERSION-1.23.2.11-22a6f1">
+<BR><BR>
 </h3>
-
-<BR>
 
 ## 📃 Descrição do projeto
 
@@ -16,6 +15,7 @@ FL VS Code Theme
 <BR>
 
 <img src="https://github.com/ssj4dofuturo/FL_VSCODE_THEME_DarkRed/blob/master/Material/print%202020-07-10%20161934.png" alt="VS Code Theme Dark Red">
+<img src="https://github.com/felip3fl/FL_VSCODE_THEME_DarkRed/blob/master/Material/2023-08-02%20(1).png?raw=true" alt="VS Code Theme Dark Red">
 
 <BR>
 
