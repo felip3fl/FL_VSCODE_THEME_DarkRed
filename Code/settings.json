@@ -39,7 +39,8 @@
       "inputOption.activeBorder": "#840B14",
       "inputOption.activeForeground": "#ffffff",
 
-      "list.filterMatchBackground": "#F14754"
+      "list.filterMatchBackground": "#F14754",
+      "button.secondaryBorder": "#FF6A6A"
     },
     "[*Dracula*]": {
       "panel.border": "#21222c",
